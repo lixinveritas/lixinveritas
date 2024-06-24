@@ -1,6 +1,7 @@
+![MasterHead](https://i.imgur.com/bRdf4ie.jpeg)
 <h1 align="center">im arda, they usually say lixin.</h1>
 <h3 align="center">A passionate java/javascript/python/web3 developer from Turkey</h3>
-![MasterHead](https://i.imgur.com/bRdf4ie.jpeg)
+
 <p align="left"> <a href="https://twitter.com/lixinvrts" target="blank"><img src="https://img.shields.io/twitter/follow/lixinvrts?logo=twitter&style=for-the-badge" alt="lixinvrts" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
