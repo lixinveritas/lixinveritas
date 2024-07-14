@@ -1,3 +1,8 @@
+ <p align="center"> 
+Profilimi Gezen Kişi Sayısı<br>
+  
+ <img src="https://profile-counter.glitch.me/lixinveritas/count.svg" />
+</p>
 <h1 align="center">arda, they usually say lixin.</h1>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/718287701987688491?theme=dark&bg=4b4c87&animated=true&hideTimestamp=false&hideSpotify=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/718287701987688491)
