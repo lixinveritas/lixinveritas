@@ -1,6 +1,4 @@
  <p align="center"> 
-Profilimi Gezen Kişi Sayısı<br>
-  
  <img src="https://profile-counter.glitch.me/lixinveritas/count.svg" />
 </p>
 <h1 align="center">arda, they usually say lixin.</h1>
